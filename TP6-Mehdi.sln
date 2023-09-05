@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAPI", "SchoolAPI\SchoolAPI.csproj", "{03A98451-6B75-499C-BB25-DE99EA3DB3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolWebAppClient", "SchoolWebAppClient\SchoolWebAppClient.csproj", "{67B0D9C6-2FEE-4D75-A5BC-5C03C2B67739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A98451-6B75-499C-BB25-DE99EA3DB3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A98451-6B75-499C-BB25-DE99EA3DB3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A98451-6B75-499C-BB25-DE99EA3DB3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A98451-6B75-499C-BB25-DE99EA3DB3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B0D9C6-2FEE-4D75-A5BC-5C03C2B67739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B0D9C6-2FEE-4D75-A5BC-5C03C2B67739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B0D9C6-2FEE-4D75-A5BC-5C03C2B67739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B0D9C6-2FEE-4D75-A5BC-5C03C2B67739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4EACE96-E169-4429-BC4F-C116A06ED2EA}
+	EndGlobalSection
+EndGlobal

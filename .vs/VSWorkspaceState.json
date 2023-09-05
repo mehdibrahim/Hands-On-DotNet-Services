@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolAPI",
+    "\\SchoolAPI\\bin",
+    "\\SchoolAPI\\Controllers",
+    "\\SchoolAPI\\Models",
+    "\\SchoolAPI\\Properties",
+    "\\SchoolWebAppClient"
+  ],
+  "SelectedNode": "\\SchoolAPI\\Models\\School.cs",
+  "PreviewInSolutionExplorer": false
+}
